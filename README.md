@@ -1,1 +1,1 @@
-# Mini-Hackathon
+Personal Expense tracker
